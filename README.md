@@ -97,4 +97,5 @@ Silinder warna Kuning, volume = 1538.6
 Catatan: Output mengikuti nilai warna, sisi, radius, dan tinggi yang ditentukan di dalam Main.java.
 
 📸 Screenshot Hasil Program
-Berikut merupakan tempat untuk menampilkan screenshot hasil eksekusi program.
+<img width="619" height="234" alt="image" src="https://github.com/user-attachments/assets/258a716f-4d3c-4a72-b5eb-4296cffd7547" />
+
